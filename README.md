@@ -9,9 +9,6 @@ Run Website -> not available
 # 
 
 # Documentation📒
-
-## 
-
 ## LCD 20x4 with I2C Pin Use to WeMos D1 R2
 
 | PIN LCD | Type     | Pin WeMos D1 R2| 
