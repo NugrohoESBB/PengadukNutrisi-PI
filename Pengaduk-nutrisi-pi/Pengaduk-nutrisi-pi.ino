@@ -6,10 +6,10 @@
   ||  Sensor pH             ||    A0    ||
   ||  Water Level           ||    D7    ||
   ||  LED                   ||    D8    ||
-  ||  Relay Valve 1 (INT4)  ||    D3    ||
-  ||  Relay Valve 2 (INT3)  ||    D4    ||
-  ||  Relay Motor   (INT2)  ||    D5    ||
-  ||  Relay Pompa   (INT1)  ||    D6    ||
+  ||  Relay Valve 1 (INT1)  ||    D3    ||
+  ||  Relay Valve 2 (INT2)  ||    D4    ||
+  ||  Relay Motor   (INT3)  ||    D5    ||
+  ||  Relay Pompa   (INT4)  ||    D6    ||
   ========================================
 
 */
