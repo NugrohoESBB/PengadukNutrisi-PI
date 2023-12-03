@@ -63,6 +63,20 @@ Run Website -> not available
 
 ## 
 
+## Pin Use to WeMos D1 R2
+
+| PIN WeMos D1 R2| Type     | Pin WeMos D1 R2| 
+| :-------- | :------- |  :------- |
+| `Pin LED` | `DATA` | `D8`|
+| `D2` | `DATA` |`D7`|
+| `D1` | `DATA` |`*`|
+| `D0` | `DATA` | `D3`|
+| `*` | `DATA` | `D4`|
+| `A0` | `DATA` | `D5`|
+| `*` | `DATA` | `D6`|
+
+##
+
 ## Rumus pH Sensor pH-4502C
 ```c++
 // pH sensor
@@ -102,13 +116,3 @@ void pHsensor() {
  Serial.println(phValue);
 }
 ```
-## Pin Use to WeMos D1 R2
- 
-| :-------- | :------- |  :------- |
-| `Pin LED` | ` ` | `D8`|
-| `D2` | ` ` |`D7`|
-| `D1` | ` ` |` `|
-| `D0` | ` ` | `D3`|
-| ` ` | ` ` | `D4`|
-| `A0` | ` ` | `D5`|
-| ` ` | ` ` | `D6`|
